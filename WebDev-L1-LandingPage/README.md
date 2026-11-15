@@ -29,7 +29,7 @@ GlowNest is a responsive skincare landing page that presents products through a 
 
 ## Project Structure
 ```
-Level 1 Task 1 - Landing Page (GlowNest)/
+OIBSIP/WebDev-L1-Landing Page (GlowNest)/
 ├── glownest.html             # Main HTML file
 ├── glownest.css              # Stylesheet
 ├── GlowNest-Logo.png         # Brand logo
